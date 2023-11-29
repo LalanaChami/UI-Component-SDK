@@ -2,7 +2,7 @@
 //  UI_Component_SDK.h
 //  UI-Component-SDK
 //
-//  Created by Amila Manathunga on 2023-11-29.
+//  Created by Lalana Chamika on 2023-11-29.
 //
 
 #import <Foundation/Foundation.h>
